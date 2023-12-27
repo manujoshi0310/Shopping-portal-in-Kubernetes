@@ -8,9 +8,10 @@ module.exports = async () => {
       useUnifiedTopology: true,
       useCreateIndex: true,
     });
-    console.log("Db Connected");
+    console.log("Db Connected");// db connected showing message
   } catch (error) {
-    console.log("Error ============");
+    console.log("Error ============");//catching error
     console.log(error);
   }
 };
+//end of code
