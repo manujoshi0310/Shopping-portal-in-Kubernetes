@@ -1,0 +1,72 @@
+[
+    {
+    "name":"alphonso mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://media.istockphoto.com/id/679142518/photo/king-of-fruits-alphonso-yellow-mango-fruit-duo-with-stems-and-green-leaf-isolated-on-white.jpg?s=612x612&w=0&k=20&c=uwGsGvNSghnz0FczO80UuKp8uteK8IfOUo3zrylRGTU=",
+    "unit":1,
+    "price":300, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Apples",
+    "desc":"great Quality of Apple",
+    "type":"fruits",
+    "banner":"https://images.pexels.com/photos/575610/pexels-photo-575610.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "unit":1,
+    "price":140, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Kesar Mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://media.istockphoto.com/id/991179514/photo/raw-organic-bright-orange-colored-common-mango-or-indian-mango-or-%C3%A2kesar-kari%C3%A2-on-wooden.jpg?s=612x612&w=0&k=20&c=ZYiHh-Kwc5gFPYFRAtu6vGfTkf1r73CMqx0cOJLPkkc=",
+    "unit":1,
+    "price":170, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Langra Mango",
+    "desc":"great Quality of Mango",
+    "type":"fruits",
+    "banner":"https://media.istockphoto.com/id/1405148582/photo/ripe-langra-mangoes-for-sale-at-a-roadside-fruit-stall-in-kolkata.jpg?s=612x612&w=0&k=20&c=svYMdcwQDML_lavlKnAeoRMmHFjHzqZM0NIFrp2gN9Q=",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Broccoli",
+    "desc":"great Quality of Fresh Vegetable",
+    "type":"vegetables",
+    "banner":"https://images.pexels.com/photos/1118177/pexels-photo-1118177.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Cauliflower",
+    "desc":"great Quality of Fresh Vegetable",
+    "type":"vegetables",
+    "banner":"https://media.istockphoto.com/id/1371203923/photo/close-up-of-cauliflower-on-table.jpg?s=612x612&w=0&k=20&c=X5yposPg9pfTLYl97vlr4Ph7TfBoECchgSB-EGflHXI=",
+    "unit":1,
+    "price":280, 
+    "available":true,
+    "suplier":"Golden seed firming"
+},
+{
+    "name":"Olive Oil",
+    "desc":"great Quality of Oil",
+    "type":"oils",
+    "banner":"https://media.istockphoto.com/id/508274713/photo/olive-oil.jpg?s=612x612&w=0&k=20&c=xOz_zovbKrWtgvNycTjrRP_d42XiAa1wazmo3R2ql0M=",
+    "unit":1,
+    "price":400, 
+    "available":true,
+    "suplier":"Golden seed firming"
+}
+]
